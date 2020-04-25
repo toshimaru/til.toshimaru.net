@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: toshimaru_e
 github_username:  toshimaru
+permalink: /:year-:month-:day
 theme: minima
 plugins:
   - jekyll-feed
