@@ -7,7 +7,9 @@ description: >-
 twitter_username: toshimaru_e
 github_username:  toshimaru
 permalink: /:year-:month-:day
-theme: minima
 timezone: Asia/Tokyo
+google_analytics: UA-35177276-5
+theme: minima
+
 plugins:
   - jekyll-feed
