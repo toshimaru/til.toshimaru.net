@@ -10,6 +10,9 @@ permalink: /:year-:month-:day
 timezone: Asia/Tokyo
 google_analytics: UA-35177276-5
 theme: minima
+twitter:
+  username: toshimaru_e
+  card: summary
 
 plugins:
   - jekyll-feed
