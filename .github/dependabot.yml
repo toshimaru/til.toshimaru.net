@@ -8,6 +8,3 @@ updates:
   open-pull-requests-limit: 10
   reviewers:
   - toshimaru
-  allow:
-  - dependency-type: direct
-  - dependency-type: indirect
