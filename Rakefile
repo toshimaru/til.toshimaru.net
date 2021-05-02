@@ -13,3 +13,9 @@ task :til do
 
   puts "#{filename} has been created!"
 end
+
+task :noindex do
+  File.write("robots.txt", <<~TXT)
+    TODO: noindex
+  TXT
+end
