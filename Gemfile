@@ -1,6 +1,6 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll"
-gem "webrick"
-gem "rake"
-gem "github-pages", group: :jekyll_plugins
+gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll'
+gem 'rake'
+gem 'webrick'
