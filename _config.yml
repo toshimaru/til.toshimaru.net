@@ -14,3 +14,4 @@ twitter:
   card: summary
 plugins:
   - jekyll-feed
+lang: ja
