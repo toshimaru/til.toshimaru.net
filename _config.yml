@@ -12,6 +12,4 @@ theme: minima
 twitter:
   username: toshimaru_e
   card: summary
-plugins:
-  - jekyll-feed
 lang: ja
