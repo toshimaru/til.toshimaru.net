@@ -1,0 +1,20 @@
+body {
+  --base-fontsize: 1.1rem;
+  --header-scale: 1.2;
+}
+
+blockquote {
+  margin: 1rem 0;
+  padding: .4rem 1rem;
+  background-color: var(--accent-bg);
+}
+
+h1, h2, h3 {
+  a {
+    text-decoration: none;
+  }
+}
+
+.post-link {
+  display: block;
+}
