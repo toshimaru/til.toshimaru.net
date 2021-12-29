@@ -8,7 +8,7 @@ github_username:  toshimaru
 permalink: /:year-:month-:day
 timezone: Asia/Tokyo
 google_analytics: UA-35177276-5
-theme: minima
+remote_theme: jekyll/minima
 twitter:
   username: toshimaru_e
   card: summary
