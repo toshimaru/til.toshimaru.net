@@ -1,6 +1,11 @@
 :root {
   --base-fontsize: 1.1rem;
   --header-scale: 1.2;
+  --text-light: #727272;
+}
+
+header {
+  padding: 1.2rem 0.5rem;
 }
 
 blockquote {
@@ -10,15 +15,16 @@ blockquote {
 }
 
 h1, h2, h3 {
+  line-height: 1.3;
   a {
     text-decoration: none;
   }
 }
 
-.post-link {
-  display: block;
-}
-
 ol, ul {
     padding-left: 2rem;
+}
+
+.post-link {
+  display: block;
 }
