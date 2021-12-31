@@ -25,6 +25,18 @@ ol, ul {
     padding-left: 2rem;
 }
 
+code {
+  background: var(--accent-bg);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 1px .4rem;
+}
+
+pre > code {
+    border: 0;
+    padding: 0;
+}
+
 .post-link {
   display: block;
 }
