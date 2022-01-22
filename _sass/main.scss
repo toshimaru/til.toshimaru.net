@@ -1,6 +1,4 @@
 :root {
-  --base-fontsize: 1.1rem;
-  --header-scale: 1.15;
   --text-light: #727272;
 }
 
@@ -21,8 +19,20 @@ h1, h2, h3 {
   }
 }
 
+main {
+  h1 {
+    font-size: 2.2rem;
+  }
+  h2 {
+    font-size: 2.0rem;
+  }
+  h3 {
+    font-size: 1.8rem;
+  }
+}
+
 ol, ul {
-    padding-left: 2rem;
+  padding-left: 2rem;
 }
 
 code {
@@ -33,8 +43,8 @@ code {
 }
 
 pre > code {
-    border: 0;
-    padding: 0;
+  border: 0;
+  padding: 0;
 }
 
 .post-link {
