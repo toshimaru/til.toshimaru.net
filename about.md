@@ -2,18 +2,13 @@
 layout: page
 title: About
 permalink: /about/
-published: false
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+{{ site.description }}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+本サイトのソースコードは[こちら](https://github.com/toshimaru/til.toshimaru.net)。
+何か問題あれば[Issue](https://github.com/toshimaru/til.toshimaru.net/issues)か[メール](<mailto:me@toshimaru.net>)でお知らせください。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- About me: [toshima.ru](https://toshima.ru/)
+- GitHub: [@{{ site.github_username }}](https://github.com/toshimaru)
+- Twitter: [@{{ site.twitter.username }}](https://twitter.com/toshimaru_e)

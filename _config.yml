@@ -8,12 +8,16 @@ github_username:  toshimaru
 permalink: /:year-:month-:day
 timezone: Asia/Tokyo
 google_analytics: UA-35177276-5
-remote_theme: toshimaru/jekyll-theme-classless-simple
-classless-simple:
-  syntax: monokai
 twitter:
   username: toshimaru_e
   card: summary
 plugins:
   - jekyll-feed
 lang: ja
+# Use remote_theme instead.
+# theme: jekyll-theme-classless-simple
+remote_theme: toshimaru/jekyll-theme-classless-simple
+classless-simple:
+  syntax: monokai
+header_pages:
+- about.md
