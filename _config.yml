@@ -21,3 +21,4 @@ classless-simple:
   syntax: monokai
 header_pages:
 - about.md
+- categories.html
