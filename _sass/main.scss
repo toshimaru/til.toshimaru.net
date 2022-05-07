@@ -1,9 +1,14 @@
 :root {
+  // defualt text-light is a little dark, so use lighter color
   --text-light: #727272;
 }
 
-body>header {
-  padding: 0 0.5rem;
+body {
+  font-family: "Noto Sans JP", "Helvetica Neue", Arial, sans-serif;
+
+  & > header {
+    padding: 0;
+  }
 }
 
 blockquote {
@@ -14,9 +19,6 @@ blockquote {
 
 h1, h2, h3 {
   line-height: 1.3;
-  a {
-    text-decoration: none;
-  }
 }
 
 main {
@@ -48,5 +50,5 @@ pre > code {
 }
 
 .post-link {
-  display: block;
+  font-size: 1.7rem;
 }
