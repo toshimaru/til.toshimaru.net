@@ -3,8 +3,12 @@
   --text-light: #727272;
 }
 
-body>header {
-  padding: 0 0.5rem;
+body {
+  font-family: "Noto Sans JP", "Helvetica Neue", Arial, sans-serif;
+
+  & > header {
+    padding: 0;
+  }
 }
 
 blockquote {
