@@ -12,7 +12,7 @@ twitter:
   username: toshimaru_e
   card: summary
 plugins:
-  - jekyll-feed
+- jekyll-feed
 lang: ja
 # Use remote_theme instead.
 # theme: jekyll-theme-classless-simple
@@ -22,3 +22,7 @@ classless-simple:
 header_pages:
 - about.md
 - categories.html
+giscus:
+  repo: toshimaru/til.toshimaru.net
+  repo-id: MDEwOlJlcG9zaXRvcnkyNTgyODI2ODQ=
+  category-id: DIC_kwDOD2UUvM4CO8JI
