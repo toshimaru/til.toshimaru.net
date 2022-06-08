@@ -13,6 +13,8 @@ twitter:
   card: summary
 plugins:
 - jekyll-feed
+feed:
+  posts_limit: 50
 lang: ja
 # Use remote_theme instead.
 # theme: jekyll-theme-classless-simple
