@@ -11,3 +11,5 @@ task :til do
 
   puts "#{filename} has been created!"
 end
+
+task default: :til
