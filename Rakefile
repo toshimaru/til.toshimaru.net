@@ -5,7 +5,8 @@ task :til do
   filename = "_posts/#{today}-til.md"
   File.write(filename, <<~YAML)
     ---
-    title: #{today}
+    title: #{today} TIL
+    categories:
     ---
   YAML
 
