@@ -1,5 +1,6 @@
 require 'date'
 
+desc 'Create a new TIL post'
 task :til do
   today = Date.today.to_s
   filename = "_posts/#{today}-til.md"
