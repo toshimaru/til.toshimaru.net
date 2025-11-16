@@ -5,3 +5,5 @@ gem 'jekyll'
 gem 'rake'
 gem 'webrick'
 gem 'net-ftp'
+# https://github.com/ruby/openssl/issues/949
+gem 'openssl'

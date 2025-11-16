@@ -241,6 +241,7 @@ GEM
     octokit (4.25.1)
       faraday (>= 1, < 3)
       sawyer (~> 0.9)
+    openssl (3.3.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.1.1)
@@ -283,6 +284,7 @@ DEPENDENCIES
   github-pages
   jekyll
   net-ftp
+  openssl
   rake
   webrick
 
