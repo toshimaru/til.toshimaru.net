@@ -1,4 +1,4 @@
-![CI](https://github.com/toshimaru/til.toshimaru.net/workflows/CI/badge.svg)
+[![CI](https://github.com/toshimaru/til.toshimaru.net/actions/workflows/ci.yml/badge.svg)](https://github.com/toshimaru/til.toshimaru.net/actions/workflows/ci.yml)
 
 # [til.toshimaru.net](https://til.toshimaru.net/)
 
